@@ -25,10 +25,6 @@ literal_aoh = [
       name: "Pat Monteseian", occupation: "None"}, {
       name:  "Kate Gompert", occupation: "None" }, {
         { name:  "Bruce Green", occupation: "Fan of Mildred" }
-        
-      }  
-      }
-    }
     ]
 end
 
