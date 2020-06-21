@@ -34,5 +34,5 @@ def aoh_lookup(aoh, row, key)
 end
 
 def aoh_update(aoh, row, key, new_value)
-assembled_aoh[2][:name] = "Brian"
+assembled_aoh[2][:name] = "Nathan Chung"
 end
